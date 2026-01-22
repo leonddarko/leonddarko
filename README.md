@@ -4,13 +4,11 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture> -->
 
-## Hi there 👋🏽! I'm Leon.
-
-**I design & build digital experiences with intention.**
+# Hi there 👋🏽! I'm Leon. I design & build digital experiences with intention.
 
 I’m a full-stack web developer with over 5 years of real-world experience building reliable, fast, and practical web applications. I handle both front-end and back-end development, and I also use AI to automate tasks, speed up development, and improve efficiency, while keeping performance, clarity, and long term use front and center.
 
-## Background
+### 🎓 Background
 + Technologies I've used recently: Nodejs • Next.js • React • Tailwind CSS • DaisyUI • JavaScript • Mongoose • AWS • Vercel • WordPress
 + BSc Information Technology
 + Certification: Full-Stack Web Development Bootcamp – Udemy (Angela Yu)
@@ -18,13 +16,13 @@ I’m a full-stack web developer with over 5 years of real-world experience buil
 + Built internal tools, business systems, and production apps
 + I embrace continuous learning and professional growth
 
-### Open To
+### 🤝🏻 Open To
 + Freelance projects
 + Long‑term collaborations
 + Web and app development partnerships
 
 ### Find Me
-+ Website: https://leonddarko.web.app
++ Website: https://leonddarko.vercel.app
 + Email: leonddarko@gmail.com
 + LinkedIn: https://linkedin.com/in/leonddarko
 
