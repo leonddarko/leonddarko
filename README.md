@@ -1,4 +1,14 @@
-## Hi there 👋
+<!-- <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture> -->
+
+Hi there 👋🏽! I'm
+# Leon Darko
+## Full-Stack Web Developer
+
+** I’m a full-stack web developer with over 5 years of real-world experience building reliable, fast, and practical web applications. I handle both front-end and back-end development, and I also use AI to automate tasks, speed up development, and improve efficiency, while keeping performance, clarity, and long term use front and center. **
 
 <!--
 **leonddarko/leonddarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
