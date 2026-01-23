@@ -22,7 +22,7 @@ I’m a full-stack web developer with over 5 years of real-world experience buil
 + Web and app development partnerships
 
 ### 🌐 Find Me
-+ Website: https://leonddarko.vercel.app
++ Website: https://leonddarkov2.vercel.app
 + Email: leonddarko@gmail.com
 + LinkedIn: https://linkedin.com/in/leonddarko
 
